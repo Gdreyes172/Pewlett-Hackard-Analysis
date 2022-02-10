@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 ## Overview: 
-###This project was tasked with the goal of using SQL query language to assess Pewlett Hackard's staff and their retirement status.
+### This project was tasked with the goal of using SQL query language to assess Pewlett Hackard's staff and their retirement status.
 ## Purpose: 
 ### We hope to idenftify how many employees will be eligible for retirement along with their names a departments.
 ---
