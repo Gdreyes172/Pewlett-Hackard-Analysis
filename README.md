@@ -1,9 +1,11 @@
 # Pewlett-Hackard-Analysis
-## Overview: This project was tasked with the goal of using SQL query language to assess Pewlett Hackard's staff and their retirement status.
-# Purpose: We hope to idenftify how many employees will be eligible for retirement along with a list of names and eligible employees for management vacancies.
+## Overview: 
+###This project was tasked with the goal of using SQL query language to assess Pewlett Hackard's staff and their retirement status.
+## Purpose: 
+### We hope to idenftify how many employees will be eligible for retirement along with their names a departments.
 ---
 # Results: 
-##Based on the data we were able to pull using the six different csv files, we were able to deduce that there is a large number of employees coming to retirement stauts. A list of names was also created but, for simplicity, we decided to precent the number of employees per title who are about to retire. 
+## Based on the data we were able to pull using the six different csv files, we were able to deduce that there is a large number of employees coming to retirement stauts. A list of names was also created but, for simplicity, we decided to precent the number of employees per title who are about to retire. 
 ### 25916 =Senior Engineer
 ### 24926 =Senior Staff
 ### 9285 = Engineer
